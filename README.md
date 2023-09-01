@@ -15,7 +15,7 @@ The primary objective of this project is to establish a secure and efficient sys
 - Querying Simplification: Employ AWS Athena for on-demand querying of data stored in Amazon S3.
 
 # Dataset Used:
-The project will leverage a Kaggle dataset that encompasses statistical information (in CSV files) about daily popular YouTube videos across numerous months. The dataset covers up to 200 trending videos per day across various geographical locations. Each regional dataset contains data on video titles, channel titles, publication timestamps, tags, views, likes, dislikes, descriptions, and comment counts. Furthermore, a category_id field, distinct for each region, is integrated into the JSON file linked to that specific area.
+The project will leverage a Kaggle dataset that encompasses statistical information (in CSV files) about daily popular YouTube videos across numerous months. The dataset covers up to 200 trending videos per day across various geographical locations. Each regional dataset contains data on video titles, channel titles, publication timestamps, tags, views, likes, dislikes, descriptions, and comment counts. Furthermore, a category_id field, distinct for each region, is integrated into the JSON file linked to that specific area. https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 # Architecture Overview
 
